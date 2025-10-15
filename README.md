@@ -358,9 +358,6 @@ Este é um projeto de aprendizado pessoal, mas sugestões são bem-vindas! Sinta
 - Sugerir melhorias na documentação
 - Compartilhar suas próprias experiências
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar este material para seus estudos.
 
 ## ✍️ Autor
 
